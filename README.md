@@ -1,6 +1,6 @@
  hie 👋  
  
-   💂‍♂️ my name is Trust Musikri , developer @LadsAfrica , also studying at Harare Institute of Technolgy , 
+   💂‍♂️ my name is Trust Musikiri , developer @LadsAfrica , also studying at Harare Institute of Technolgy , 
    hey 😃 lm an enthusiastic of Backend Technologies 💪  
   
  - Learning Node.js  💻 
